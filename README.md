@@ -3,9 +3,6 @@
 
 Welcome on the Tinder Bot app whose recommandations are based on Deep Learning for image recognition. Don't forget to star or fork this repo if you appreciate the bot! 
 
-## How does it work?
-
-Everything is explained here: http://philipperemy.github.io/tinder-deep-learning/
 
 ## How to run the bot
 ```
